@@ -13,7 +13,7 @@ const agentConfig = {
   // ─── BRANDING ───────────────────────────────────────────────────────
   // These values are reflected in the header, welcome screen,
   // meta tags, email templates, and throughout the UI.
-  name: "23BD1A6652",
+  name: "23BD1A665N",
   emoji: "⚡",
   tagline: "AI-Powered Productivity Toolkit",
   description:
